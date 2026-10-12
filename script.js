@@ -14,7 +14,7 @@ function myphoto(){
 }
 
 // Form validation
-// document.addEventListener("DOMContentLoaded",() =>{
+document.addEventListener("DOMContentLoaded",() =>{
 const form = document.querySelector("form");
 
 if (!form) return;
@@ -45,4 +45,4 @@ if (!form) return;
 
     });
 
-// })
+})
