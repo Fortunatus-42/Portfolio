@@ -106,19 +106,6 @@ form input, form textarea{
     background-color: chocolate;
 }
 
-/* .parent{
-    display: flex;
-    flex-wrap: nowrap;
-    width: 100%;
-}
-
-.first, .second{
-    width: 50%;
-    text-align: center;
-    box-sizing: border-box;
-    padding: 10px;
-} */
-
 @media (max-width: 768px) {
     .parent{
         flex-wrap: wrap;
@@ -141,7 +128,6 @@ form input, form textarea{
         height: auto;
         line-height: 1.5;
     }
-
 
     footer{
         height: auto;
